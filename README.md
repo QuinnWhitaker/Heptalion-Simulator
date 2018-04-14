@@ -1,5 +1,5 @@
 # Heptalion-Simulator
-A homework assignment for my Object Oriented Programming class which allows players to play a game of Heptalion.
+A program that allows players to play a simulated game of Heptalion.
 
 Heptalion is a game played with 2-4 players. It consists of a board with 56 spaces, each having one of 7 possible symbols. Each player holds 10 dominos, each domino possessing 2 of these 7 symbols. In turn order, each player places a domino on top of two adjacent spaces, where the symbols on the spaces match the symbols on the domino placed. Once a player cannot place a domino, they lose the game.
 
